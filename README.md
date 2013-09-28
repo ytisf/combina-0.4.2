@@ -17,7 +17,7 @@ Change Log:
     
 We are still open to more suggestions but since this program was very close to perfection when it came out, 
 we didn’t see anything else which needed to be added. You should verify the following libraries before trying to compile the project:
-    sudo apt-get install libargtable2-dev libssl-dev
+    sudo apt-get install libargtable2-dev libssl-dev    
 
 GPLv3:
 ------
